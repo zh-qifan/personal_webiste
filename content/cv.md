@@ -1,6 +1,7 @@
 ---
 title: "CV"
 draft: false
+date: "2023-07-09"
 type: "cv"
 ---
 
