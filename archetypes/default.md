@@ -1,6 +1,6 @@
 ---
 title: "{{ humanize .Name | title }}"
-date: "{{ .Date }}"
+date: "2023-07-09"
 draft: true
 comments: false
 socialShare: true

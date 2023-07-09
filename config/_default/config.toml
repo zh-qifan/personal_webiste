@@ -1,5 +1,5 @@
 baseURL = "http://localhost"
-copyright = "Copyright © 2023"
+copyright = "Copyright © 2021"
 title = "Qifan Zhang"
 #paginate = 10
 enableRobotsTXT = true
