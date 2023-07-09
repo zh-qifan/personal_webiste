@@ -74,11 +74,9 @@ jobs:
       - name: Build Hugo
         run: hugo --minify
 
-      - name: Deploy to Cloudflare Pages
-        uses: cloudflare/pages-action@v1
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          projectName: qifan-website
+          publish_branch: main
           directory: ./public
-          gitHubToken: ${{ secrets.PERSONAL_TOKEN }}
+          github_token: ${{ secrets.PERSONAL_TOKEN }}
