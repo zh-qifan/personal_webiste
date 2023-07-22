@@ -3,7 +3,7 @@
   "basics": {
     "name": "Qifan Zhang",
     "label": "Incoming MS in Stat & DS @ Yale <- BS in Stat @ Nanjing University  ",
-    "image": "http://localhost:1313/qifan-zhang.png",
+    "image": "https://zh-qifan.github.io/qifan-zhang.png",
     "email": "qifansz1008@gmail.com",
     "summary": "Qifan earned Bachelor degree from Nanjing University this summer and he will continue his study at Yale University. While his major is statistics and data science, he also has great interest in financial mathematics. This personal website depends on the hugo theme gruvbox. A big thanks to the creators!",
     "location": {
