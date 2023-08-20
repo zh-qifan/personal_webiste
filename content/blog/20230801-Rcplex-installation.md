@@ -1,7 +1,7 @@
 ---
 author: Qifan
 title: Rcplex Installation
-date: "2023-08-02"
+date: "2023-08-01"
 description: "In this blog, I will introduce how to install Rcplex on Windows."
 math: false
 comments: true
@@ -50,7 +50,7 @@ endif
 </pre>
 <!-- markdownlint-enable MD033 -->
 
-**Step 5** run the following commands on your terminal.
+**Step 5** Run the following commands on your terminal.
 
 <!-- markdownlint-disable MD033 -->
 <pre class="command-line language-clike" data-start="1">

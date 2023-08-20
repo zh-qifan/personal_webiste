@@ -2,10 +2,10 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Qifan Zhang",
-    "label": "Incoming MS in Stat & DS @ Yale <- BS in Stat @ Nanjing University  ",
+    "label": "MS in Stat & DS @ Yale <- BS in Stat @ Nanjing University  ",
     "image": "https://zh-qifan.github.io/qifan-zhang.png",
     "email": "qifansz1008@gmail.com",
-    "summary": "Qifan earned Bachelor degree from Nanjing University this summer and he will continue his study at Yale University. While his major is statistics and data science, he also has great interest in financial mathematics. This personal website depends on the hugo theme gruvbox. A big thanks to the creators!",
+    "summary": "Qifan did his bachelor's degree at Nanjing University, China and he is currenly a master student at Yale University. He has great interests in many topics such as statistical machine learning, big data, deep learning, high-dimensional statistics, graphic models, and more. This personal website depends on the hugo theme gruvbox. A big thanks to the creators!",
     "location": {
       "city": "New Haven, CT"
     },
@@ -66,9 +66,10 @@
       "url": "",
       "startDate": "2022-08-23",
       "endDate": "2022-10-30",
-      "summary": "To be added.",
+      "summary": "The company was a very young startup when I joined them. I was mainly responsible for exploring the directional change (DC) models based on some research papers.",
       "highlights": [
-        "To be added."
+        "Developed programs in Python to automatically transform financial time series data to DC data and generate 16 DC-based indicators.",
+        "Combined DC framework with Support Vector Machine (SVM) to predict the price movement of DC events of the CSI300 Index, yielding over 60% model accuracy and a 2.08 Sharpe ratio in backtesting."
       ]
     }
   ],
@@ -91,7 +92,7 @@
       "startDate": "2019-09-01",
       "endDate": "2023-06-25",
       "score": "GPA: 93.4/100",
-      "courses": ["Mathematical Analysis/Higher Algebra/Abstract Algebra/ODE/Complex Analysis/Functional Analysis/PDE", "Probability Theory/Mathematical Statistics/Time Series/Machine Learning/Stochastic Processes/Advanced Mathematical Statistics/Advanced Probability Theory", "C++/Databases/Numerical Methods/Data Mining"]
+      "courses": ["Mathematical Analysis/Advanced Algebra/Abstract Algebra/ODE/Complex Analysis/Functional Analysis/PDE", "Probability Theory/Mathematical Statistics/Time Series/Machine Learning/Stochastic Processes/*Advanced Mathematical Statistics/*Advanced Probability Theory", "C++/Databases/Numerical Methods/Data Mining", "* stands for graduate courses"]
     },
     {
       "institution": "Department of Statistics and Data Science, National University of Singapore",
