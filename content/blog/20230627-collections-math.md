@@ -4,6 +4,7 @@ title: Collections of Interesting Mathsmatical Problems
 date: "2023-06-27"
 description: "This blog is used to collect some hard but interesting math problem I have encountered when I am preparing quant interview."
 math: true
+draft: true
 tags: 
   - "mathematics"
   - "quant"

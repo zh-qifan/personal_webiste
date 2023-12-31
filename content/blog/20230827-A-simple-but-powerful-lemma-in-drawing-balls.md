@@ -1,8 +1,8 @@
 ---
 author: Qifan
-title: A Simple but Powerful Lemma in Drawing balls from bags
+title: Drawing balls from an unknown bag
 date: "2023-08-28"
-description: "This blog is about a lemma I found useful in calculating probability in ball-drawing problems."
+description: "This blog is about a fact I found useful in calculating probability in ball-drawing problems."
 math: true
 comments: true
 tags: 

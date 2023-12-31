@@ -2,10 +2,10 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Qifan Zhang",
-    "label": "MS in Stat & DS @ Yale <- BS in Stat @ Nanjing University  ",
+    "label": "MS in Stat & DS @ Yale",
     "image": "https://zh-qifan.github.io/qifan-zhang.png",
     "email": "qifansz1008@gmail.com",
-    "summary": "Qifan did his bachelor's degree at Nanjing University, China and he is currenly a master student at Yale University. He has great interests in many topics such as statistical machine learning, big data, deep learning, high-dimensional statistics, graphic models, and more. This personal website depends on the hugo theme gruvbox. A big thanks to the creators!",
+    "summary": "This personal website depends on the hugo theme gruvbox. A big thanks to the creators!",
     "location": {
       "city": "New Haven, CT"
     },
@@ -13,6 +13,10 @@
       {
         "network": "LinkedIn",
         "url": "https://www.linkedin.com/in/qifan-zhang-07ba091a9/"
+      },
+      {
+        "network": "GitHub",
+        "url": "https://github.com/zh-qifan"
       }
     ]
   },

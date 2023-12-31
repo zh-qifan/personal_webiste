@@ -16,7 +16,7 @@ enableRobotsTXT = true
 
 [imaging]
   # JPEG and WebP image processing quality, defaults to 75%
-  #quality = 75
+  quality = 100
 
 [params]
   # dark or light, defaults to light. Local storage and OS preference override this param. For more details see: 
@@ -25,7 +25,7 @@ enableRobotsTXT = true
   # gray red green yellow blue purple aqua orange, defaults to blue
   #themeColor = "blue"
   # soft medium hard, defaults to medium
-  #themeContrast = "medium"
+  themeContrast = "medium"
   author = "Qifan Zhang"
   subtitle = "Qifan Zhang's personal website"
   description = "A retro-looking Hugo theme inspired by gruvbox. The pastel colors are high contrast, easily distinguishable, pleasing to the eye, and feature light and dark color palettes."
@@ -121,11 +121,6 @@ enableRobotsTXT = true
     name = "Blog"
     url = "/blog"
     weight = 10
-  [[menu.main]]
-    identifier = "cv"
-    name = "CV"
-    url = "/cv"
-    weight = 20
 
 [languages]
   [languages.en]
