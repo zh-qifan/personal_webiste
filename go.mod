@@ -1,6 +1,6 @@
 module github.com/schnerring/hugo-theme-gruvbox
 
-go 1.21.5
+go 1.23
 
 require (
 	github.com/schnerring/hugo-mod-github-readme-stats v0.0.0-20230711082512-efb5c42b032c // indirect
